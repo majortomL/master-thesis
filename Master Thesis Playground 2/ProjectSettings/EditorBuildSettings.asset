@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/WebXR Interactions/0.16.3-preview/Sample Scene/Scenes/Desert.unity
+    guid: 85380d4847db7b74a850284461349c36
+  - enabled: 0
+    path: Assets/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: cae411afc33729644a3fc3f8e57ed015
+  m_configObjects:
+    WebXR.Settings: {fileID: 11400000, guid: 1eca646df96a5e14fb6a1b297d951771, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: efe8ee4a573f67a478871aa0055e2244, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6009992bf0453af449df41fe890785de, type: 2}
